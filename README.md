@@ -1,3 +1,7 @@
+(This repo is an exercise I did as part of [Josh Comeau's course, CSS for JavaScript Developers](https://css-for-js.dev/). --@rorysaur)
+
+---
+
 # Character Creation Workshop
 
 In this workshop, you'll build a Sims-style character creation screen.
